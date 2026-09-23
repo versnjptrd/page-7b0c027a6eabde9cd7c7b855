@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3293a78bdfdaa7a7ad396124",
+  "owner": "versnjptrd",
+  "repo": "page-7b0c027a6eabde9cd7c7b855",
+  "title": "haoyun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7b0c027a6eabde9cd7c7b855",
+      "a": "haoyun",
+      "b": "2027官方最新地址导航",
+      "entity": "haoyun",
+      "brand": "haoyun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1b657b51f7f8b6a040ab7dcf708ba3ebd05e04428b79b34f90ba2f1236126a9d",
+      "content": {
+        "primary_entity": "haoyun",
+        "keyword1": "haoyun",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，在订阅页导入配置后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按设备配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置你的订阅",
+          "AI_DESCRIPTION": "，套餐按月流量与在线设备数量分层，基础版每月100GB、3台设备，旗舰版每月300GB、5台设备，团队版每月1000GB、20台设备。所有套餐按年付更省，可按使用强度选择，再依设备类型导入订阅。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量额度与订阅周期，说明三档套餐的核心区别。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "每月100GB流量，支持3台设备同时在线，普通节点池，适合轻度日常使用。",
+          "AI_FEATURE_TEXT_2": "每月300GB流量，支持5台设备，全节点流媒体解锁与IPLC专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "每月1000GB流量，支持20台设备，VIP高带宽节点，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "基础版：轻量入门",
+          "AI_FEATURE_TITLE_2": "旗舰版：性能优先",
+          "AI_FEATURE_TITLE_3": "团队版：多人共享",
+          "AI_GUIDE_INTRO": "先确认设备数量与月度流量需求，再按对应客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "haoyun 提供按月流量与设备数量分层的海外加速套餐，基础版至团队版覆盖个人到多人场景，按年付更省。选择套餐后，依设备类型导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，按设备配置",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按年付价格更省",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC游戏加速",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量和节点类型上区分，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量额度与需要同时在线的设备数量，圈定适合自己的档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，核对是否满足流媒体或游戏场景。",
+          "AI_STEP_TEXT_3": "按设备类型打开对应客户端文档，导入订阅信息完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "haoyun 套餐选择与配置",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度使用。",
+          "AI_FAQ_ANSWER_2": "不需要。haoyun 客户端支持扫码或粘贴订阅链接导入，完成即可连接。",
+          "AI_FAQ_ANSWER_3": "旗舰版支持 5 台设备，团队版支持 20 台设备，可按家庭或小组规模选择。",
+          "AI_FAQ_ANSWER_4": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_5": "旗舰版与团队版包含专属节点与优先支持，适合游戏加速和高带宽场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "需要安装额外插件才能使用吗？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何选择？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版与团队版有哪些额外权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fkvshpx.cn",
+    "host": "fkvshpx.cn"
+  },
+  "file_hashes": {
+    "index.html": "7049b68d5c26af80bf6473cff9b2032ac6ac92e86dcf6d09a47902abbeb34c22",
+    "sitemap.xml": "68295dc2b084f21d6b05213c281e5595cd42ba81ed33f36de539c53514ff7f40",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "106d36c234c1f725887780fb41e4ab982f86616279fe5ba21c21122f4d33782f",
+    "robots.txt": "fac076cb18785e13e6e8e32280f15721100a8a794f1b0751f42cdd6b3cc8859c",
+    "b956ed06e0d9bb27d6458e511d7d9930.txt": "678f85e525dc55904d37de766e13dda065e5a18aa35ac9ca4a465807e1c9bf7e"
+  },
+  "revision": "338736add866708e6f3de1b20a59c9c86f864828596ff14ea4b308743c0fa2cd"
+}
